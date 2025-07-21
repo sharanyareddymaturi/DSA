@@ -19,7 +19,7 @@ class Solution {
             int n=nums[i];
             if(hm.containsKey(n)){
                 ans=ans+hm.get(n);
-                hm.put(n,hm.get(n)+1);
+                hm.put(n,hm.getOrDefault(n,0)+1);
             }else{
                 hm.put(n,1);
             }
