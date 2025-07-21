@@ -11,19 +11,35 @@
 //         return ans;
 //     }
 // }
+// class Solution {
+//     public int numIdenticalPairs(int[] nums) {
+//         HashMap<Integer,Integer>hm=new HashMap<>();
+//         int ans=0;
+//         for(int i=0;i<nums.length;i++){
+//             int n=nums[i];
+//             if(hm.containsKey(n)){
+//                 ans=ans+hm.get(n);
+//                 hm.put(n,hm.getOrDefault(n,0)+1);
+//            }else{
+//                 hm.put(n,1);
+//             }
+//         }
+//         return ans;
+//     }
+// }
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         HashMap<Integer,Integer>hm=new HashMap<>();
-        int ans=0;
+        int res=0;
         for(int i=0;i<nums.length;i++){
             int n=nums[i];
-            if(hm.containsKey(n)){
-                ans=ans+hm.get(n);
-                hm.put(n,hm.get(n)+1);
-            }else{
-                hm.put(n,1);
-            }
+            hm.put(n,hm.getOrDefault(n,0)+1);
         }
-        return ans;
+        for(int boon:hm.keySet()){
+            int val=hm.get(boon);
+            int ans=(val*(val-1))/2;
+            res=res+ans;
+        }
+        return res;
     }
 }
