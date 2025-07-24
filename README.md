@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
