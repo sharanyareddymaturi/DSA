@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sharanyareddymaturi/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
+| [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
