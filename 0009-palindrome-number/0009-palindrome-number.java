@@ -14,17 +14,30 @@
 //     }
 // }
 
+// class Solution {
+//     public boolean isPalindrome(int x) {
+//         if(x<0){
+//             return false;
+//         }
+//         String str=Integer.toString(x);
+//         String rev="";
+//         for(int i=str.length()-1;i>=0;i--){
+//             char ch=str.charAt(i);
+//             rev=rev+ch;
+//         }
+//         return str.equals(rev);
+//     }
+// }
+
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0){
-            return false;
-        }
         String str=Integer.toString(x);
-        String rev="";
-        for(int i=str.length()-1;i>=0;i--){
-            char ch=str.charAt(i);
-            rev=rev+ch;
+        int n=str.length();
+        for(int i=0;i<n/2;i++){
+            if(str.charAt(i)!=str.charAt(n-1-i)){
+                return false;
+            }
         }
-        return str.equals(rev);
+        return true;
     }
 }
