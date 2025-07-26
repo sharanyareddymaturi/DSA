@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sharanyareddymaturi/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sharanyareddymaturi/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
