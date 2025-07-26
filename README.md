@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sharanyareddymaturi/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/sharanyareddymaturi/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sharanyareddymaturi/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
