@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
+| [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
 |  |
 | ------- |
