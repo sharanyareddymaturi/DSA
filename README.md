@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sharanyareddymaturi/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
