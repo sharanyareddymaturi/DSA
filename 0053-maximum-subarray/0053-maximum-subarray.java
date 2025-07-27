@@ -14,14 +14,13 @@
 //         return sum;
 //     }
 // }
-
 class Solution {
     public int maxSubArray(int[] nums) {
         int currentSum = nums[0];
-        int maxSum = nums[0];
+        int maxSum = nums[0]; // Start with nums[0] instead of Integer.MIN_VALUE
 
         for (int i = 1; i < nums.length; i++) {
-            // Either extend the current subarray or start a new one
+            // Either start a new subarray or extend the existing one
             currentSum = Math.max(nums[i], currentSum + nums[i]);
             maxSum = Math.max(maxSum, currentSum);
         }
@@ -29,3 +28,4 @@ class Solution {
         return maxSum;
     }
 }
+
