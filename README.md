@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sharanyareddymaturi/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 ## Union Find
 |  |
 | ------- |
