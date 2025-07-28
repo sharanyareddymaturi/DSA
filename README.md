@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sharanyareddymaturi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sharanyareddymaturi/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sharanyareddymaturi/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 ## Design
