@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
+| [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sharanyareddymaturi/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
+| [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
 |  |
