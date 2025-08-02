@@ -12,7 +12,9 @@ class Solution {
         int max1=1;
         for(int i=1;i<=max;i++){
             if(min%i==0 && max%i==0){
-               max1=i;
+                if(i>max1){
+                    max1=i;
+                }
             }
         }
         return max1;
