@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sharanyareddymaturi/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sharanyareddymaturi/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sharanyareddymaturi/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/sharanyareddymaturi/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
