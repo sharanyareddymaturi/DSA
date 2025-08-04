@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/sharanyareddymaturi/DSA/tree/master/2722-prime-in-diagonal) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sharanyareddymaturi/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
