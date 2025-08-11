@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sharanyareddymaturi/DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sharanyareddymaturi/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 ## Array
