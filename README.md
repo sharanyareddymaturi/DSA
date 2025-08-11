@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sharanyareddymaturi/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [2722-prime-in-diagonal](https://github.com/sharanyareddymaturi/DSA/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
