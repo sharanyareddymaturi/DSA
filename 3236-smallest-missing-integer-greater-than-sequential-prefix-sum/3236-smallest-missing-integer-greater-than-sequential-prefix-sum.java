@@ -37,12 +37,13 @@ class Solution {
                 break;
             }
         }
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++){
-            if(sum==nums[i]){
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums){
+            set.add(num);
+            while (set.contains(sum)){
                 sum++;
             }
-        }
+        } 
         return sum;
     }
 }
