@@ -23,7 +23,7 @@ class Solution {
                 }
             }
             int value2=nums[i][c-1-i];
-            if(i!=c-1-i && isprime(value2)){
+            if(isprime(value2)){
                 max=Math.max(max,value2);
             }
         }
