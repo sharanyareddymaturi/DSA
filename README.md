@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
