@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/sharanyareddymaturi/DSA/tree/master/2722-prime-in-diagonal) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sharanyareddymaturi/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |
