@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sharanyareddymaturi/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sharanyareddymaturi/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sharanyareddymaturi/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sharanyareddymaturi/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
