@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sharanyareddymaturi/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
