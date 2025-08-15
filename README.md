@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/sharanyareddymaturi/DSA/tree/master/2722-prime-in-diagonal) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/sharanyareddymaturi/DSA/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
 | ------- |
