@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sharanyareddymaturi/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/sharanyareddymaturi/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
