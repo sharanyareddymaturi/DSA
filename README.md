@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sharanyareddymaturi/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharanyareddymaturi/DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/sharanyareddymaturi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sharanyareddymaturi/DSA/tree/master/0204-count-primes) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/sharanyareddymaturi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/sharanyareddymaturi/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0152-maximum-product-subarray) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sharanyareddymaturi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sharanyareddymaturi/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharanyareddymaturi/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sharanyareddymaturi/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sharanyareddymaturi/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sharanyareddymaturi/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
