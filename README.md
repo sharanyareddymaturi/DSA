@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sharanyareddymaturi/DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sharanyareddymaturi/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sharanyareddymaturi/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sharanyareddymaturi/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sharanyareddymaturi/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
