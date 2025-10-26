@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sharanyareddymaturi/DSA/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sharanyareddymaturi/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharanyareddymaturi/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sharanyareddymaturi/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
