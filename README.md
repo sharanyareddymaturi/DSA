@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sharanyareddymaturi/DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sharanyareddymaturi/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Recursion
 |  |
 | ------- |
