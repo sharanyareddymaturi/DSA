@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sharanyareddymaturi/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sharanyareddymaturi/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
