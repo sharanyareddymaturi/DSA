@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sharanyareddymaturi/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3210-find-the-encrypted-string](https://github.com/sharanyareddymaturi/DSA/tree/master/3210-find-the-encrypted-string) |
 ## Array
 |  |
 | ------- |
