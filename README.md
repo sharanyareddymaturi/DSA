@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0541-reverse-string-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
