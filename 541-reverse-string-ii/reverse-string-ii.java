@@ -12,7 +12,7 @@ class Solution {
         char str[]=s.toCharArray();
         int n=s.length();
         for(int i=0;i<n;i+=2*k){
-            if(i+k-1<=n-1){
+            if(i+k-1<n){
                 reverse(str,i,i+k-1);
             }else{
                 reverse(str,i,n-1);
