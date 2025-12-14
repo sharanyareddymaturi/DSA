@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/sharanyareddymaturi/DSA/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/sharanyareddymaturi/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sharanyareddymaturi/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharanyareddymaturi/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/sharanyareddymaturi/DSA/tree/master/0917-reverse-only-letters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0777-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [2722-prime-in-diagonal](https://github.com/sharanyareddymaturi/DSA/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
