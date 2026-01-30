@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sharanyareddymaturi/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sharanyareddymaturi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sharanyareddymaturi/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sharanyareddymaturi/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyareddymaturi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sharanyareddymaturi/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sharanyareddymaturi/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharanyareddymaturi/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sharanyareddymaturi/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyareddymaturi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sharanyareddymaturi/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
