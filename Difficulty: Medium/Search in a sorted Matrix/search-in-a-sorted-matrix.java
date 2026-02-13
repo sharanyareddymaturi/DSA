@@ -1,26 +1,47 @@
 class Solution {
     public boolean searchMatrix(int[][] mat, int x) {
-        int n=mat.length;
+        int  n=mat.length;
         int m=mat[0].length;
-        int low=0;
-        int hi=(n*m)-1;
-        while(low<=hi){
-            int mid=low+(hi-low)/2;
-            int row=mid/m;
-            int col=mid%m;
-            if(mat[row][col]==x){
+        int i=0;
+        int j=m-1;
+        while(i<n && j>=0){
+            if(x>mat[i][j]){
+                i++;
+            }
+            else if(x<mat[i][j]){
+                j--;
+            }else{
                 return true;
-            }
-            else if(mat[row][col]<x){
-                low=mid+1;
-            }
-            else{
-                hi=mid-1;
             }
         }
         return false;
     }
 }
+
+
+// class Solution {
+//     public boolean searchMatrix(int[][] mat, int x) {
+//         int n=mat.length;
+//         int m=mat[0].length;
+//         int low=0;
+//         int hi=(n*m)-1;
+//         while(low<=hi){
+//             int mid=low+(hi-low)/2;
+//             int row=mid/m;
+//             int col=mid%m;
+//             if(mat[row][col]==x){
+//                 return true;
+//             }
+//             else if(mat[row][col]<x){
+//                 low=mid+1;
+//             }
+//             else{
+//                 hi=mid-1;
+//             }
+//         }
+//         return false;
+//     }
+// }
 
 
 
