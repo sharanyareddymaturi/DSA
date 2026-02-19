@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2325-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/sharanyareddymaturi/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sharanyareddymaturi/DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sharanyareddymaturi/DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2325-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/sharanyareddymaturi/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/sharanyareddymaturi/DSA/tree/master/2406-decode-the-message) |
 | [2810-faulty-keyboard](https://github.com/sharanyareddymaturi/DSA/tree/master/2810-faulty-keyboard) |
