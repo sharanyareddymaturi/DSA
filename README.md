@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sharanyareddymaturi/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharanyareddymaturi/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sharanyareddymaturi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sharanyareddymaturi/DSA/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0682-baseball-game) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sharanyareddymaturi/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyareddymaturi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sharanyareddymaturi/DSA/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharanyareddymaturi/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sharanyareddymaturi/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanyareddymaturi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sharanyareddymaturi/DSA/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
