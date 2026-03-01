@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/sharanyareddymaturi/DSA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sharanyareddymaturi/DSA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/sharanyareddymaturi/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sharanyareddymaturi/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sharanyareddymaturi/DSA/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sharanyareddymaturi/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2551-apply-operations-to-an-array) |
