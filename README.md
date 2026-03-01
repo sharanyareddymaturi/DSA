@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/sharanyareddymaturi/DSA/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sharanyareddymaturi/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sharanyareddymaturi/DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharanyareddymaturi/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sharanyareddymaturi/DSA/tree/master/0134-gas-station) |
 | [1448-maximum-69-number](https://github.com/sharanyareddymaturi/DSA/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Tree
 |  |
 | ------- |
