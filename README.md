@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharanyareddymaturi/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1528-shuffle-string](https://github.com/sharanyareddymaturi/DSA/tree/master/1528-shuffle-string) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sharanyareddymaturi/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sharanyareddymaturi/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sharanyareddymaturi/DSA/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sharanyareddymaturi/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
