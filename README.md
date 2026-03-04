@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/sharanyareddymaturi/DSA/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/sharanyareddymaturi/DSA/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sharanyareddymaturi/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/sharanyareddymaturi/DSA/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sharanyareddymaturi/DSA/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharanyareddymaturi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sharanyareddymaturi/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharanyareddymaturi/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sharanyareddymaturi/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sharanyareddymaturi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sharanyareddymaturi/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/sharanyareddymaturi/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sharanyareddymaturi/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
