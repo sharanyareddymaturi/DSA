@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharanyareddymaturi/DSA/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sharanyareddymaturi/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharanyareddymaturi/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/sharanyareddymaturi/DSA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sharanyareddymaturi/DSA/tree/master/1635-number-of-good-pairs) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sharanyareddymaturi/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharanyareddymaturi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sharanyareddymaturi/DSA/tree/master/0134-gas-station) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sharanyareddymaturi/DSA/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1448-maximum-69-number](https://github.com/sharanyareddymaturi/DSA/tree/master/1448-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharanyareddymaturi/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/sharanyareddymaturi/DSA/tree/master/1903-largest-odd-number-in-string) |
